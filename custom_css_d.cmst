@@ -1,0 +1,12 @@
+body {padding-top: 50px; font-color: #ff0000;} .starter-template { padding: 40px 15px; text-align: center;}
+h2 {color: #00ff00;}
+<!-- SixCMS: params
+type="detail"
+area="Delius Projektordner: Ideenmappe: im_ideenmappe"
+label="custom_css"
+title="custom_css"
+c_comment=""
+cachetime="0"
+query=""
+path_area=""
+-->
