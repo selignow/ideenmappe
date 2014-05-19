@@ -1,4 +1,4 @@
-body {padding-top: 50px; font-color: #ff0000;} .starter-template { padding: 40px 15px; text-align: center;}
+body {padding-top: 50px; font-color: #00ff00;} .starter-template { padding: 40px 15px; text-align: center;}
 h2 {color: #00ff00;}
 <!-- SixCMS: params
 type="detail"
